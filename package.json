@@ -12,6 +12,8 @@
   "dependencies": {
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
-    "mysql": "^2.18.1"
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "ssh2": "^1.16.0"
   }
 }
